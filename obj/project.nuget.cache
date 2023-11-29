@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BBtVD/Ies2hxbK6JHzoHS4yLedqQf3FA6xKu2vCY1omdwnRxkEUTIk6uWnVsbVlHi0Kj6TazcufafVFHSEAYrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Komal\\Desktop\\test2\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Komal\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
