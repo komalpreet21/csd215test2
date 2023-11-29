@@ -27,3 +27,4 @@ C:\Users\Komal\Desktop\test2\MyFSharpApp\obj\Debug\net8.0\refint\MyFSharpApp.dll
 C:\Users\Komal\Desktop\test2\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.pdb
 C:\Users\Komal\Desktop\test2\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.genruntimeconfig.cache
 C:\Users\Komal\Desktop\test2\MyFSharpApp\obj\Debug\net8.0\ref\MyFSharpApp.dll
+C:\Users\Komal\Desktop\test2\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.sourcelink.json
